@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+node_modules/
+jspm_packages/
+
 # testing
 /coverage
 
